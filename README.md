@@ -23,9 +23,9 @@ pip install pymongo
 
 3. Ensure MongoDB is running locally:
 
-Database: todo_app
+- Database: todo_app
 
-Collection: tasks
+- Collection: tasks
 
 4. Run the app:
 ```bash
